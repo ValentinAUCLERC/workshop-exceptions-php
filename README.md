@@ -1,3 +1,5 @@
+WARNING : Workshop généré avec Claude Sonnet
+
 # 🎓 Workshop : Gestion d'Erreurs en PHP
 
 Un mini-workshop pédagogique pour comprendre l'évolution des techniques de gestion d'erreurs en PHP, de la pire pratique (echo + die) à la meilleure (exceptions).
